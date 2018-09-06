@@ -29,7 +29,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Password Generator v1.1 by Czyżo</string>
+   <string>Password Generator v1.0 by Czyzo66</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QCheckBox" name="checkBoxUppercase">
